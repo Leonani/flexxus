@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cont input {
+    width: 20rem;
+    height: 1.5rem;
+    border: solid blue 1px ;
+
+}

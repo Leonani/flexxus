@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+li {
+    list-style: none;
+}
+.card{
+    height: 8rem;
+    width: 20rem;
+    display: grid;
+    grid-template-rows: 20% 70%;
+    background-color: rgba(181, 239, 239, 0.331);
+    margin: 0.3rem;
+    
+}
+
+h2{
+    margin: 0.5rem;
+    color: aliceblue;
+}
+
+p{
+    margin: 0.5rem;
+}
+
